@@ -1,7 +1,7 @@
 # M.Haseeb
 
   - 🔭 I’m currently working as a Consultant Integration.
-  - 🌱 Previously worked as Java-Fx developer, Full-Stack-Android developer.
+  - 🌱 Previously worked on Java-Fx , Full-Stack-Android, .Net, WPF, ADO.Net.
   - 💬 Ask me about Android, Gming.
   - ⚡ Fun fact: Turning caffeine into code since 2020.
   
